@@ -1,0 +1,6 @@
+[Simulation Results]
+Total simulation time=21
+Satisfied Ratio = 0.408421
+Cache Hit Ratio = 0.881443
+Cache Replacement Ratio = 0.032895
+Average Overhead = 0.000000
